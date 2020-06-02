@@ -7,9 +7,7 @@ arch:
 os:
   - linux
 compiler:
-  - clang
   - gcc
-  - g++
 
 install:
   - ./autogen.sh -s
